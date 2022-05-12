@@ -8,7 +8,7 @@ for(let i=0; i < 5; i++) {
 
 let guessed = [];
 let notGuessed = [];
-setTimeout(clear, 5000);
+setTimeout(clear, 29500);
 
 
 function clear() {
